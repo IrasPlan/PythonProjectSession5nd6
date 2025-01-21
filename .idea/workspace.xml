@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3c4ea73-f6dc-4bd2-ab71-f8229fcd8b2e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProjectSession5&amp;6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_example.py" afterDir="false" />
+    <list default="true" id="b3c4ea73-f6dc-4bd2-ab71-f8229fcd8b2e" name="Changes" comment="Added an input example">
+      <change beforePath="$PROJECT_DIR$/input_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/input_example.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +54,19 @@
       <option name="presentableId" value="Default" />
       <updated>1737473680094</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added an input example">
+      <option name="closed" value="true" />
+      <created>1737474243730</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737474243730</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added an input example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added an input example" />
   </component>
 </project>
