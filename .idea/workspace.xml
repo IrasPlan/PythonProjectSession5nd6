@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3c4ea73-f6dc-4bd2-ab71-f8229fcd8b2e" name="Changes" comment="More examples of if, very complicated">
-      <change afterPath="$PROJECT_DIR$/while_example2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/while_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/while_example.py" afterDir="false" />
+    <list default="true" id="b3c4ea73-f6dc-4bd2-ab71-f8229fcd8b2e" name="Changes" comment="while example 2">
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +37,7 @@
     "Python.if_example.executor": "Run",
     "Python.input_example.executor": "Run",
     "Python.while_example.executor": "Run",
+    "Python.while_example2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -90,7 +90,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737480715080</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="while example 1">
+      <option name="closed" value="true" />
+      <created>1737481465576</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737481465576</updated>
+    </task>
+    <task id="LOCAL-00006" summary="while example 2">
+      <option name="closed" value="true" />
+      <created>1737481742126</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737481742126</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -98,6 +114,8 @@
     <MESSAGE value="Added more print examples" />
     <MESSAGE value="Added more complications for exeptions" />
     <MESSAGE value="More examples of if, very complicated" />
-    <option name="LAST_COMMIT_MESSAGE" value="More examples of if, very complicated" />
+    <MESSAGE value="while example 1" />
+    <MESSAGE value="while example 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="while example 2" />
   </component>
 </project>
